@@ -1,3 +1,1 @@
-ola 
-
-this is the new readme
+Códigos e exercícios Java.
